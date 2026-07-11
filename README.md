@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
