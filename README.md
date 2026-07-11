@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0088-merge-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0088-merge-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0088-merge-sorted-array) |
 | [2974-minimum-number-game](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
