@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2974-minimum-number-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
