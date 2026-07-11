@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/0242-valid-anagram) |
 | [2974-minimum-number-game](https://github.com/samarth-maheshwari-dev/Leet-code/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
